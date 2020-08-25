@@ -1,11 +1,14 @@
 h1 {
-  color: darkblue
+  color: darkblue;
 }
 h2 {
-  color: darkblue
+  color: darkblue;
+}
+h3 {
+  color: darkblue;
 }
 p{
-  color: darkblue
+  color: darkblue;
 }
 body {
   background-color: grey;
