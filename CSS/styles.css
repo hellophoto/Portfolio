@@ -1,14 +1,16 @@
 h1 {
   color: darkblue
 }
-h6 {
+h2 {
   color: darkblue
 }
 p{
   color: darkblue
 }
 body {
-  background-color: grey
+  background-color: grey;
+  font-family: sans-serif;
+  text-align: center;
 }
 img {
   float: center;
