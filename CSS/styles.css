@@ -7,14 +7,18 @@ h2 {
 h3 {
   color: darkblue;
 }
-p{
+h4 {
   color: darkblue;
 }
-body {
-  background-color: grey;
-  font-family: sans-serif;
-  text-align: center;
+p{
+  color: black;
 }
-img {
+body {
+  background-color: lightgrey;
+  font-family: sans-serif;
+}
+.sidebar {
   float: center;
+  width: 300px;
+  height: 300px;
 }
