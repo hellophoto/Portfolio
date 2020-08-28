@@ -1,5 +1,5 @@
 # portfolio
-####_{HTML and CSS Independent Code Project for Epicodus , 08.27.20}
+{HTML and CSS Independent Code Project for Epicodus , 08.27.20}
 
 By Dominique Whittaker
 
@@ -7,7 +7,7 @@ Description:
 This web page is meant to provide a one-stop-shop to learn about a beginning programmer's skills and proficiency.
 
 Setup Instructions:
-1. Clone or Fork repo from https://github.com/hellophoto/Portfolio
+1. Clone or Fork repo from https://github.com/hellophoto/Portfolio/tree/gh-pages
 2. Make appropriate changes to personalize your site.
 3. Push to your own portfolio and deploy GH-pages. 
 
